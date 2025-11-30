@@ -156,4 +156,4 @@ Post-Quantum Cryptography and Zero Trust Architecture are essential improvements
 30. IJIRT. "Beyond Passwords: Evaluating PQC in Zero Trust Architectures." 2025.
 
 ---
-_Report uploaded by Harrison Ennis
+Report uploaded by Harrison Ennis
